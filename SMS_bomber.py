@@ -57,6 +57,5 @@ try:
     throttle = raw_input("Enter time of sleep: ")
     send(number,int(count), int(throttle))
 except Exception as e:
-    print("Something is wrong please Re-run this script.")
-    
+    print("Something is wrong please Re-run this script."
    
